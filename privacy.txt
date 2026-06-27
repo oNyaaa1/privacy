@@ -1,0 +1,67 @@
+Privacy Policy
+
+Effective Date: June 27, 2026
+
+Privacy Policy for [Your Bot Name]
+
+This Privacy Policy explains how [Your Bot Name] ("the Bot") collects, uses, and protects information when used on Discord.
+
+Information We Collect
+
+The Bot may collect and temporarily process the following information:
+
+Discord User IDs
+Discord Server (Guild) IDs
+Channel IDs
+Role IDs
+Message IDs (when required for bot features)
+Command usage
+Basic server configuration settings
+
+The Bot does not collect:
+
+Discord passwords
+Payment information
+Email addresses
+Direct Message contents unless required by a specific command
+Personal information outside of Discord
+How We Use Information
+
+Collected information is used solely to:
+
+Provide bot functionality
+Store server settings
+Execute commands
+Prevent abuse
+Improve bot performance
+Diagnose errors
+Data Storage
+
+Any stored data is kept securely and only for as long as necessary for the Bot to function.
+
+Data Sharing
+
+We do not sell, rent, or share your information with third parties except when required by law.
+
+Data Removal
+
+Server administrators or users may request removal of stored data by contacting the bot developer.
+
+Security
+
+Reasonable measures are taken to protect stored information; however, no online service can guarantee absolute security.
+
+Children's Privacy
+
+The Bot is not intended for users under Discord's minimum age requirements.
+
+Changes
+
+This Privacy Policy may be updated at any time. Continued use of the Bot constitutes acceptance of any changes.
+
+Contact
+
+For questions regarding this Privacy Policy, contact:
+
+Developer: oNyaaaa
+Discord: _onyaaaa_
