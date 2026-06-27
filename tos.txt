@@ -1,0 +1,94 @@
+Terms of Service
+
+Effective Date: June 27, 2026
+
+Terms of Service for [Bot Name]
+
+By inviting or using [Bot Name] ("the Bot"), you agree to these Terms of Service ("Terms"). If you do not agree with these Terms, do not use the Bot.
+
+1. Use of the Bot
+
+You agree to use the Bot in accordance with:
+
+Discord's Terms of Service
+Discord's Community Guidelines
+All applicable local, national, and international laws
+
+You may not use the Bot to:
+
+Break any laws or regulations.
+Harass, abuse, or threaten other users.
+Attempt to exploit, reverse engineer, or disrupt the Bot.
+Circumvent security or rate limits.
+Use the Bot for malicious or fraudulent purposes.
+2. Availability
+
+The Bot is provided on an "as is" and "as available" basis.
+
+We do not guarantee that:
+
+The Bot will always be online.
+Features will remain unchanged.
+The Bot will be free from bugs or errors.
+Data will never be lost.
+
+Maintenance, downtime, or unexpected outages may occur at any time.
+
+3. Server Data
+
+The Bot may store limited server-related information necessary for its functionality, including:
+
+Server (Guild) IDs
+Channel IDs
+Role IDs
+User IDs
+Configuration settings
+Command usage logs
+
+For more information, please refer to our Privacy Policy.
+
+4. User Responsibilities
+
+You are responsible for:
+
+Using the Bot responsibly.
+Ensuring your server complies with Discord's rules.
+Granting only the permissions necessary for the Bot to operate.
+
+Server administrators are responsible for how they configure and use the Bot.
+
+5. Restrictions
+
+You may not:
+
+Copy, redistribute, or resell the Bot without permission.
+Use automated methods to abuse the Bot.
+Attempt to gain unauthorized access to the Bot or its infrastructure.
+Interfere with the operation of the Bot or its services.
+6. Termination
+
+We reserve the right to:
+
+Refuse service.
+Remove the Bot from any server.
+Suspend or permanently block users or servers.
+Disable features without prior notice.
+
+This may occur if these Terms are violated or if necessary to protect the Bot or its users.
+
+7. Limitation of Liability
+
+To the maximum extent permitted by law, the developer shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from the use of, or inability to use, the Bot.
+
+Use of the Bot is entirely at your own risk.
+
+8. Changes to These Terms
+
+These Terms may be updated from time to time. Continued use of the Bot after changes are published constitutes acceptance of the revised Terms.
+
+9. Contact
+
+If you have any questions regarding these Terms, please contact:
+
+Developer: oNyaaaa
+Discord: _onyaaaa_
